@@ -44,9 +44,9 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=20909&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000"/>
 </p>
 
 <table style="width:200%; height:200%">
