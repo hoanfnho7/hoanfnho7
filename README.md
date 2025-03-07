@@ -33,6 +33,9 @@
   <a href="mailto:lhoangnhon09@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="https://steamcommunity.com/id/bbanh_micha/" alt="Steam">
+    <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+  </a>
 </p>
 
 ## Skills:
