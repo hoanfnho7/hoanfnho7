@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoang-nho-le-9950452b6/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/>
   </a>
   <a href="https://www.facebook.com/bbanhmicha/" alt="Facebook" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
